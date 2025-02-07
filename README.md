@@ -1,4 +1,4 @@
-## Hi👋, I am George
+## Hi👋, nice to see you!
 
 Results-driven Senior Software Engineer with ✨10+ years✨ of extensive experience in ✨full-stack✨ development. Adept at employing excellent ✨technical skills✨, ✨leadership capabilities✨, and ✨collaboration strengths✨ to deliver innovative solutions. Proven track record of building and improving products for startups, SMEs, and individuals, ensuring high-quality and scalable results. Proficient in ✨designing, developing, and deploying robust software systems✨ while maintaining a user-centered approach.
 
