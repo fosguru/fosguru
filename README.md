@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hi👋, I am George
 
 Results-driven Senior Software Engineer with ✨10+ years✨ of extensive experience in ✨full-stack✨ development. Adept at employing excellent ✨technical skills✨, ✨leadership capabilities✨, and ✨collaboration strengths✨ to deliver innovative solutions. Proven track record of building and improving products for startups, SMEs, and individuals, ensuring high-quality and scalable results. Proficient in ✨designing, developing, and deploying robust software systems✨ while maintaining a user-centered approach.
 
-<iframe width="560" height="315" src="https://diversecg.co.uk/images/video/3.mp4?ver=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+  <img src="https://github.com/user-attachments/assets/3f3745a7-5bba-4473-abd1-ba87af7aa429" width="1000px">
+</center>
 
-https://github.com/user-attachments/assets/83f46f86-e2a8-4983-9e21-852f3c27de8e
 
 <!--
 **fosguru/fosguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
